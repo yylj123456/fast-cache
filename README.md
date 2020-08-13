@@ -2,7 +2,7 @@
 
 短小精悍的前端缓存工具，防止内存泄露
 
-npm i babel-core babel-loader babel-polyfill babel-preset-es2015 babel-preset-latest webpack webpack-cli --save-dev
+npm i babel-loader @babel/core @babel/runtime @babel/preset-env @babel/plugin-proposal-class-properties @babel/plugin-transform-runtime -D
 
 src 源代码
 
